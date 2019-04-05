@@ -1,5 +1,6 @@
 
 Mini string library for string manipulation. contact me if you need another function :v
+
 example output:
 
 original string:  "Python--and--" is fast--and--"C++" is powerfull--and--"C" is great--and--"Assembly" is the soul 
